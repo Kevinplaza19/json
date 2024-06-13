@@ -1,0 +1,24 @@
+{
+    "peliculas": [
+        {
+            "titulo": "El Padrino",
+            "director": "Francis Ford Coppola",
+            "año_estreno": 1972
+        },
+        {
+            "titulo": "Forrest Gump",
+            "director": "Robert Zemeckis",
+            "año_estreno": 1994
+        },
+        {
+            "titulo": "El Caballero Oscuro",
+            "director": "Christopher Nolan",
+            "año_estreno": 2008
+        },
+        {
+            "titulo": "Rapidos y furioso 4",
+            "director": "Justin Lin",
+            "año_estreno": 2009
+        }
+    ]
+}
